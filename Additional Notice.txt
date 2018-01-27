@@ -1,0 +1,13 @@
+[Additional Notice]
+If you are wondering the Google API is not working, please download the Google Cloud
+and follow the steps given in Google Cloud to verify your account.
+I must apologize for lack of documentations to the steps to set-up the Google Cloud Service as
+this project was completed long time ago.
+
+The link is given below:
+https://cloud.google.com/translate/?utm_source=google&utm_medium=cpc&utm_campaign=japac-SG-all-en-dr-bkws-all-all-trial-e-dr-1003987&utm_content=text-ad-none-none-DEV_c-CRE_74773858497-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20T1%20%7C%20EXA%20%7C%20ML%20%7C%20M:1%20%7C%20SG%20%7C%20en%20%7C%20services%20%7C%20translate%20api%20google%20cloud-KWID_43700008268943035-kwd-141453841977&userloc_9062512&utm_term=KW_google%20cloud%20translation%20api&gclid=CjwKCAiA47DTBRAUEiwA4luU2SSdSEAW4WNno8otDKvkgTMASv2sjuKNiZprsusiHXW0jNUwi5_AOxoCEy8QAvD_BwE&dclid=CKjameCo-NgCFdEjaAodO2IJrA
+
+You may find required informations in the documentation section in the Google Cloud website.
+
+Regards
+SoulX
